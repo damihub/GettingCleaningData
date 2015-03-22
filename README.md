@@ -2,6 +2,7 @@
 Project for getting and cleaning data
 
 Following the tidy data principle to merge and clean the test data to one data set.
+
 1. Each variable forms a column
 2. Each observation forms a row
 3. Each table/file stores one kind of data
